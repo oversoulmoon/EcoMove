@@ -1,0 +1,979 @@
+{
+  "transportType": "esriTransportTypeUrl",
+  "layers": [
+    {
+      "id": 4,
+      "features": [
+        {
+          "geometry": { "x": -8709218.062331982, "y": 4965181.5752533143 },
+          "attributes": {
+            "OBJECTID": 1,
+            "Name": "American Eagle Paper Mills",
+            "TELEPHONE": "(877) 684-1610",
+            "Email": "msheehan@aepaper.com",
+            "Website": "http://aepaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "1600 Pennsylvania Avenue",
+            "City": "Tyrone",
+            "State": "PA",
+            "Zip_Code": "16686"
+          }
+        },
+        {
+          "geometry": { "x": -8053529.7846374093, "y": 5368963.4883263111 },
+          "attributes": {
+            "OBJECTID": 2,
+            "Name": "APC Paper Group",
+            "TELEPHONE": "(603) 542-6330",
+            "Email": null,
+            "Website": "http://www.apcpapergroup.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "130 Sullivan Street",
+            "City": "Claremont",
+            "State": "NH",
+            "Zip_Code": "03743"
+          }
+        },
+        {
+          "geometry": { "x": -9911237.3500327468, "y": 5236950.4969527731 },
+          "attributes": {
+            "OBJECTID": 3,
+            "Name": "Beloit Box Board Company",
+            "TELEPHONE": "(608) 365-6671",
+            "Email": "jnichols@beloitboxboard.com",
+            "Website": "http://www.beloitboxboard.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "801 Second Street P.O. Box 386",
+            "City": "Beloit",
+            "State": "WI",
+            "Zip_Code": "53512"
+          }
+        },
+        {
+          "geometry": { "x": -9784925.9071880244, "y": 3697320.0538602597 },
+          "attributes": {
+            "OBJECTID": 4,
+            "Name": "Boise Paper",
+            "TELEPHONE": "(251) 246-8320",
+            "Email": "jckap@boisepaper.com",
+            "Website": "http://bph.boisepaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "4585 Industrial Road",
+            "City": "Jackson",
+            "State": "AL",
+            "Zip_Code": null
+          }
+        },
+        {
+          "geometry": { "x": -9768034.7328636162, "y": 5629778.0351071786 },
+          "attributes": {
+            "OBJECTID": 5,
+            "Name": "BPM Inc.",
+            "TELEPHONE": "(715) 582-4551",
+            "Email": "bpm@bpmpaper.com",
+            "Website": "http://www.bpmpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "200 West Front Street",
+            "City": "Peshtigo",
+            "State": "WI",
+            "Zip_Code": "54157"
+          }
+        },
+        {
+          "geometry": { "x": -8444306.4311602153, "y": 5087970.0118957385 },
+          "attributes": {
+            "OBJECTID": 6,
+            "Name": "Century Paper",
+            "TELEPHONE": "(866) 767-2737",
+            "Email": "info@centurypaper.com",
+            "Website": "https://www.centurypaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "P.O. Box 432",
+            "City": "Lake Winola",
+            "State": "PA",
+            "Zip_Code": "18625"
+          }
+        },
+        {
+          "geometry": { "x": -13071311.773347428, "y": 6050069.9638582449 },
+          "attributes": {
+            "OBJECTID": 7,
+            "Name": "Clearwater Paper Corporation",
+            "TELEPHONE": "(509) 344-5900",
+            "Email": null,
+            "Website": "https://www.clearwaterpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "601 West Riverside Suite 1100",
+            "City": "Spokane",
+            "State": "WA",
+            "Zip_Code": "99201"
+          }
+        },
+        {
+          "geometry": { "x": -8331990.1494000414, "y": 4871981.1787896249 },
+          "attributes": {
+            "OBJECTID": 8,
+            "Name": "Delta Paper",
+            "TELEPHONE": "(856) 532-0333",
+            "Email": "info@deltapaper.com",
+            "Website": "http://deltapaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "122 Kissel Road Unit B",
+            "City": "Burlington",
+            "State": "NJ",
+            "Zip_Code": "08016"
+          }
+        },
+        {
+          "geometry": { "x": -9012987.80766575, "y": 4167214.6317977612 },
+          "attributes": {
+            "OBJECTID": 9,
+            "Name": "Domtar Corporation",
+            "TELEPHONE": "(803) 802-7500",
+            "Email": "communications@domtar.com",
+            "Website": "https://www.domtar.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "234 Kingsley Park Drive",
+            "City": "Fort Mill",
+            "State": "SC",
+            "Zip_Code": "29715"
+          }
+        },
+        {
+          "geometry": { "x": -9754191.8209484126, "y": 5145432.2995516993 },
+          "attributes": {
+            "OBJECTID": 10,
+            "Name": "Donco Recycling Solutions",
+            "TELEPHONE": "(312) 337-7822",
+            "Email": "info@doncosolutions.com",
+            "Website": "http://www.doncosolutions.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "737 N. Michigan Ave. Suite 1450",
+            "City": "Chicago",
+            "State": "IL",
+            "Zip_Code": "60611"
+          }
+        },
+        {
+          "geometry": { "x": -8475170.27960161, "y": 4419739.2114846688 },
+          "attributes": {
+            "OBJECTID": 11,
+            "Name": "Eagle Paper International Inc.",
+            "TELEPHONE": "(757) 363-8103",
+            "Email": null,
+            "Website": "http://www.eaglepaperinternational.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "4605 Pembroke Lake Circle Suite 100",
+            "City": "Virginia Beach",
+            "State": "VA",
+            "Zip_Code": "23455"
+          }
+        },
+        {
+          "geometry": { "x": -8057449.1604455421, "y": 5251119.7695848215 },
+          "attributes": {
+            "OBJECTID": 12,
+            "Name": "Erving Industries, Inc.",
+            "TELEPHONE": "(413) 422-2700",
+            "Email": "erving@ervingpapermill.com",
+            "Website": "http://www.ervingpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "97 East Main Street",
+            "City": "Erving",
+            "State": "MA",
+            "Zip_Code": "01344"
+          }
+        },
+        {
+          "geometry": { "x": -10005741.593089243, "y": 4178534.5516763353 },
+          "attributes": {
+            "OBJECTID": 13,
+            "Name": "Evergreen Packaging LLC",
+            "TELEPHONE": "(901) 821-5350",
+            "Email": null,
+            "Website": "https://evergreenpackaging.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "5350 Poplar Ave. Suite 600",
+            "City": "Memphis",
+            "State": "TN",
+            "Zip_Code": "38119"
+          }
+        },
+        {
+          "geometry": { "x": -8197498.31165392, "y": 5358860.8361874009 },
+          "attributes": {
+            "OBJECTID": 14,
+            "Name": "Finch Paper LLC",
+            "TELEPHONE": "(800) 833-9983",
+            "Email": "info@finchpaper.com",
+            "Website": "http://www.finchpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "1 Glen Street",
+            "City": "Glens Falls",
+            "State": "NY",
+            "Zip_Code": "12801"
+          }
+        },
+        {
+          "geometry": { "x": -13144326.509142138, "y": 4023761.7612279262 },
+          "attributes": {
+            "OBJECTID": 15,
+            "Name": "Gabriel Container Co",
+            "TELEPHONE": "(562) 699-1051",
+            "Email": null,
+            "Website": "https://gabrielcontainer.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "8844 S Millergrove Drive",
+            "City": "Santa Fe Springs",
+            "State": "CA",
+            "Zip_Code": "90670"
+          }
+        },
+        {
+          "geometry": { "x": -9394010.2234420348, "y": 3996251.3159810673 },
+          "attributes": {
+            "OBJECTID": 16,
+            "Name": "Georgia-Pacific LLC",
+            "TELEPHONE": "(404) 652-4000",
+            "Email": null,
+            "Website": "https://www.gp.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "133 Peachtree St",
+            "City": "Atlanta",
+            "State": "GA",
+            "Zip_Code": "30303"
+          }
+        },
+        {
+          "geometry": { "x": -8998838.7650788836, "y": 4184847.6596306688 },
+          "attributes": {
+            "OBJECTID": 17,
+            "Name": "Glatfelter",
+            "TELEPHONE": "(717) 850-0170",
+            "Email": "info@glatfelter.com",
+            "Website": "http://www.glatfelter.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "Capital Towers South 4350 Congress Street 4350 Congress Street Suite 600",
+            "City": "Charlotte",
+            "State": "NC",
+            "Zip_Code": "28209"
+          }
+        },
+        {
+          "geometry": { "x": -7924609.150647711, "y": 5534572.5187303508 },
+          "attributes": {
+            "OBJECTID": 18,
+            "Name": "Gorham Paper & Tissue",
+            "TELEPHONE": "(603) 342-2000",
+            "Email": "sales@gorhampt.com",
+            "Website": "http://www.gorhampt.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "72 Cascade Flt",
+            "City": "Gorham",
+            "State": "NH",
+            "Zip_Code": "03581"
+          }
+        },
+        {
+          "geometry": { "x": -9399341.9117562659, "y": 4016486.4706250452 },
+          "attributes": {
+            "OBJECTID": 19,
+            "Name": "Graphic Packaging International, LLC",
+            "TELEPHONE": "(770) 240-7200",
+            "Email": null,
+            "Website": "http://www.graphicpkg.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "1500 Riveredge Parkway NW",
+            "City": "Atlanta",
+            "State": "GA",
+            "Zip_Code": "30328"
+          }
+        },
+        {
+          "geometry": { "x": -9795453.0148962289, "y": 5547161.4524605144 },
+          "attributes": {
+            "OBJECTID": 20,
+            "Name": "Green Bay Packaging, Inc.",
+            "TELEPHONE": "(920) 433-5111",
+            "Email": null,
+            "Website": "https://gbp.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "1700 Webster Court",
+            "City": "Green Bay",
+            "State": "WI",
+            "Zip_Code": "54302"
+          }
+        },
+        {
+          "geometry": { "x": -13042517.370008372, "y": 3873197.7746906425 },
+          "attributes": {
+            "OBJECTID": 21,
+            "Name": "Green Field Paper Company",
+            "TELEPHONE": "(858) 565-2585",
+            "Email": "info@greenfieldpaper.com",
+            "Website": "https://www.greenfieldpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "7196 Clairemont Mesa Boulevard",
+            "City": "San Diego",
+            "State": "CA",
+            "Zip_Code": "92111"
+          }
+        },
+        {
+          "geometry": { "x": -8795823.0255736485, "y": 5325228.9753425186 },
+          "attributes": {
+            "OBJECTID": 22,
+            "Name": "Greenpac Mill",
+            "TELEPHONE": "(716) 524-3100",
+            "Email": null,
+            "Website": "http://www.greenpacmill.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "4400 Royal Ave.",
+            "City": "Niagara Falls",
+            "State": "NY",
+            "Zip_Code": "14303"
+          }
+        },
+        {
+          "geometry": { "x": -9245166.643471105, "y": 4898563.5633015754 },
+          "attributes": {
+            "OBJECTID": 23,
+            "Name": "Greif Inc.",
+            "TELEPHONE": "(740) 549-6000",
+            "Email": null,
+            "Website": "https://www.greif.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "425 Winter Road City",
+            "City": "Delaware",
+            "State": "OH",
+            "Zip_Code": "43015"
+          }
+        },
+        {
+          "geometry": { "x": -9788992.8572197817, "y": 4312168.1772761373 },
+          "attributes": {
+            "OBJECTID": 24,
+            "Name": "Hood Container Corporation",
+            "TELEPHONE": "(931) 535-4285",
+            "Email": "jimmy.gibson@hoodcontainer.com",
+            "Website": "https://www.hoodcontainercorporation.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "2877 Scepter Road",
+            "City": "Waverly",
+            "State": "TN",
+            "Zip_Code": "37185"
+          }
+        },
+        {
+          "geometry": { "x": -13055595.295814695, "y": 6055110.3471641568 },
+          "attributes": {
+            "OBJECTID": 25,
+            "Name": "Inland Empire Paper Co.",
+            "TELEPHONE": "(509) 924-1911",
+            "Email": "iep@iepco.com",
+            "Website": "http://iepco.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "3320 N. Argonne",
+            "City": "Willwood",
+            "State": "WA",
+            "Zip_Code": "99212"
+          }
+        },
+        {
+          "geometry": { "x": -10002082.07705147, "y": 4177685.6057102075 },
+          "attributes": {
+            "OBJECTID": 26,
+            "Name": "International Paper Company",
+            "TELEPHONE": "(901) 415-6326",
+            "Email": "julie.alsup@ipaper.com",
+            "Website": "https://www.internationalpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "6400 Poplar Ave",
+            "City": "Memphis",
+            "State": "TN",
+            "Zip_Code": "38197"
+          }
+        },
+        {
+          "geometry": { "x": -9263736.3999436945, "y": 4215257.1351301856 },
+          "attributes": {
+            "OBJECTID": 27,
+            "Name": "Jackson Paper Manufacturing",
+            "TELEPHONE": "(828) 586-5534",
+            "Email": "jastafford@jacksonpaper.net",
+            "Website": "https://www.jacksonpaper.net/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "152 West Main Street",
+            "City": "Sylva",
+            "State": "NC",
+            "Zip_Code": "28779"
+          }
+        },
+        {
+          "geometry": { "x": -13393554.702492267, "y": 6021794.915359172 },
+          "attributes": {
+            "OBJECTID": 28,
+            "Name": "Keyes Packaging Group",
+            "TELEPHONE": "(509) 663-8537",
+            "Email": "sales@keyespackaging.com",
+            "Website": "http://www.keyespackaging.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "3715 State Hwy 97A N",
+            "City": "Wenatchee",
+            "State": "WA",
+            "Zip_Code": "98801"
+          }
+        },
+        {
+          "geometry": { "x": -9847814.19231818, "y": 5494069.5668526506 },
+          "attributes": {
+            "OBJECTID": 29,
+            "Name": "Kimberly-Clark Corporation",
+            "TELEPHONE": "(888) 525-8388",
+            "Email": null,
+            "Website": "https://www.kimberly-clark.com/en/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "PO Box 2020",
+            "City": "Neenah",
+            "State": "WI",
+            "Zip_Code": "54957"
+          }
+        },
+        {
+          "geometry": { "x": -10397091.713538043, "y": 5630203.9664629549 },
+          "attributes": {
+            "OBJECTID": 30,
+            "Name": "Liberty Paper Incorporated",
+            "TELEPHONE": "(763) 261-6100",
+            "Email": null,
+            "Website": "https://www.libertypaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "5600 Highway 169 North",
+            "City": "New Hope",
+            "State": "MN",
+            "Zip_Code": "55428"
+          }
+        },
+        {
+          "geometry": { "x": -8075878.6206342177, "y": 5294955.4603076661 },
+          "attributes": {
+            "OBJECTID": 31,
+            "Name": "Long Falls Paperboard LLC",
+            "TELEPHONE": "(802) 257-0365",
+            "Email": null,
+            "Website": "https://www.longfallspaperboard.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "161 Wellington Road",
+            "City": "Brattleboro",
+            "State": "VT",
+            "Zip_Code": "05301"
+          }
+        },
+        {
+          "geometry": { "x": -8252046.5070902118, "y": 4998036.8903748551 },
+          "attributes": {
+            "OBJECTID": 32,
+            "Name": "Marcal Paper",
+            "TELEPHONE": "(201) 796-4000",
+            "Email": null,
+            "Website": "https://www.marcalpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "1 Market Street",
+            "City": "Elmwood Park",
+            "State": "NJ",
+            "Zip_Code": "07407"
+          }
+        },
+        {
+          "geometry": { "x": -8661647.0130880922, "y": 4810721.2158019 },
+          "attributes": {
+            "OBJECTID": 33,
+            "Name": "Maryland Paper Company",
+            "TELEPHONE": "(301) 223-6550",
+            "Email": null,
+            "Website": "https://www.marylandpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "16144 Elliott Parkway",
+            "City": "Williamsport",
+            "State": "MD",
+            "Zip_Code": "21795"
+          }
+        },
+        {
+          "geometry": { "x": -8007097.5370133389, "y": 5313433.9407837549 },
+          "attributes": {
+            "OBJECTID": 34,
+            "Name": "Monadnock Paper Mills, Inc.",
+            "TELEPHONE": "(603) 588-3311",
+            "Email": "info@mpm.com",
+            "Website": "https://mpm.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "117 Antrim Road",
+            "City": "Bennington",
+            "State": "NH",
+            "Zip_Code": "03442"
+          }
+        },
+        {
+          "geometry": { "x": -9379816.6924296543, "y": 4038569.925997925 },
+          "attributes": {
+            "OBJECTID": 35,
+            "Name": "Neenah, Inc.",
+            "TELEPHONE": "(678) 566-6500",
+            "Email": null,
+            "Website": "https://www.neenahpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "3460 Preston Ridge Road Suite 600",
+            "City": "Alpharetta",
+            "State": "GA",
+            "Zip_Code": "30005"
+          }
+        },
+        {
+          "geometry": { "x": -13587225.903316986, "y": 4564783.4374170359 },
+          "attributes": {
+            "OBJECTID": 36,
+            "Name": "New Leaf Paper LLC",
+            "TELEPHONE": "(888) 989-5323",
+            "Email": "info@newleafpaper.com",
+            "Website": "http://newleafpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "800 S Broadway Ste 209",
+            "City": "Walnut Creek",
+            "State": "CA",
+            "Zip_Code": "94596"
+          }
+        },
+        {
+          "geometry": { "x": -13088280.597690104, "y": 4038172.5382783897 },
+          "attributes": {
+            "OBJECTID": 37,
+            "Name": "New-Indy Containerboard, LLC",
+            "TELEPHONE": "(909) 296-3400",
+            "Email": "info@new-indycb.com",
+            "Website": "http://newindycontainerboard.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "3500 Porsche Way Suite 150",
+            "City": "Ontario",
+            "State": "CA",
+            "Zip_Code": "91764"
+          }
+        },
+        {
+          "geometry": { "x": -8354941.1828658646, "y": 4868101.6837373683 },
+          "attributes": {
+            "OBJECTID": 38,
+            "Name": "Newman & Company, Inc",
+            "TELEPHONE": "(215) 333-8700",
+            "Email": "sales@newmanpaperboard.com",
+            "Website": "https://newmanpaperboard.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "6101 Tacony Street",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip_Code": "19135"
+          }
+        },
+        {
+          "geometry": { "x": -8636243.2432373613, "y": 4952317.2849013936 },
+          "attributes": {
+            "OBJECTID": 39,
+            "Name": "Nittany Paper Mills, Inc.",
+            "TELEPHONE": "(888) 288-7907",
+            "Email": "info@nittanypaper.com",
+            "Website": "http://www.nittanypaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "6395 SR 103 N. Building 5A",
+            "City": "Lewiston",
+            "State": "PA",
+            "Zip_Code": "17044"
+          }
+        },
+        {
+          "geometry": { "x": -13689375.90195778, "y": 5800213.0719573032 },
+          "attributes": {
+            "OBJECTID": 40,
+            "Name": "North Pacific Paper Company",
+            "TELEPHONE": "(800) 426-0866",
+            "Email": "norpacmedia@norpacpaper.com",
+            "Website": "http://norpacpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "3001 Industrial Way",
+            "City": "Longview",
+            "State": "WA",
+            "Zip_Code": "98632"
+          }
+        },
+        {
+          "geometry": { "x": -8571551.0274435747, "y": 4838166.3991684075 },
+          "attributes": {
+            "OBJECTID": 41,
+            "Name": "Ox Industries",
+            "TELEPHONE": "(800) 414-2476",
+            "Email": "info@oxindustries.com",
+            "Website": "https://oxindustries.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "600 West Elm Avenue",
+            "City": "Hanover",
+            "State": "PA",
+            "Zip_Code": "17331"
+          }
+        },
+        {
+          "geometry": { "x": -13161146.994144449, "y": 4029187.8039564146 },
+          "attributes": {
+            "OBJECTID": 42,
+            "Name": "PABCO Paper",
+            "TELEPHONE": "(323) 581-6113",
+            "Email": "dave.evans@pabcopaper.com",
+            "Website": "http://www.pabcopaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "4460 Pacific Blvd.",
+            "City": "Vernon",
+            "State": "CA",
+            "Zip_Code": "90058"
+          }
+        },
+        {
+          "geometry": { "x": -9783768.1735942848, "y": 5197182.4935282618 },
+          "attributes": {
+            "OBJECTID": 43,
+            "Name": "Packaging Corporation of America",
+            "TELEPHONE": "(800) 456-4725",
+            "Email": null,
+            "Website": "https://www.packagingcorp.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "1 North Field Court",
+            "City": "Lake Forest",
+            "State": "IL",
+            "Zip_Code": "60045"
+          }
+        },
+        {
+          "geometry": { "x": -8251264.9310110826, "y": 4995908.58828449 },
+          "attributes": {
+            "OBJECTID": 44,
+            "Name": "Papertec Inc.",
+            "TELEPHONE": "(888) 444-9911",
+            "Email": "sales@papertecinc.com",
+            "Website": "http://www.papertecinc.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "141 Lanza Ave Building 29",
+            "City": "Garfield",
+            "State": "NJ",
+            "Zip_Code": "07026"
+          }
+        },
+        {
+          "geometry": { "x": -8372946.9323915187, "y": 4867102.2674618689 },
+          "attributes": {
+            "OBJECTID": 45,
+            "Name": "PaperWorks Industries, Inc.",
+            "TELEPHONE": "(215) 984-7000",
+            "Email": "news@onepaperworks.com",
+            "Website": "http://www.paperworksindustries.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "40 Monument Road Suite 200",
+            "City": "Bala Cynwyd",
+            "State": "PA",
+            "Zip_Code": "19004"
+          }
+        },
+        {
+          "geometry": { "x": -13669718.102829501, "y": 6122485.5212464426 },
+          "attributes": {
+            "OBJECTID": 46,
+            "Name": "Port Townsend Paper Corporation",
+            "TELEPHONE": "(360) 385-3170",
+            "Email": "sales@ptpc.com",
+            "Website": "https://www.ptpc.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "100 Mill Road",
+            "City": "Port Townsend",
+            "State": "WA",
+            "Zip_Code": "98368"
+          }
+        },
+        {
+          "geometry": { "x": -10964888.465533666, "y": 4109283.9167454275 },
+          "attributes": {
+            "OBJECTID": 47,
+            "Name": "Republic Paperboard Company LLC",
+            "TELEPHONE": "(580) 510-2200",
+            "Email": null,
+            "Website": "https://www.republicpaperboard.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "8801 Southwest Lee Boulevard",
+            "City": "Lawton",
+            "State": "OK",
+            "Zip_Code": "73505"
+          }
+        },
+        {
+          "geometry": { "x": -12478282.40438321, "y": 3956010.081563022 },
+          "attributes": {
+            "OBJECTID": 48,
+            "Name": "Royal Paper Converting Inc.",
+            "TELEPHONE": "(800) 258-9007",
+            "Email": "info@royalpaper.us",
+            "Website": "http://royalpaper.us/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "711 N 17th Ave",
+            "City": "Phoenix",
+            "State": "AZ",
+            "Zip_Code": "85007"
+          }
+        },
+        {
+          "geometry": { "x": -8015544.83635751, "y": 5246060.07245988 },
+          "attributes": {
+            "OBJECTID": 49,
+            "Name": "Seaman Paper",
+            "TELEPHONE": "(978) 632-1513",
+            "Email": null,
+            "Website": "https://www.seamanpaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "35 Wilkins Road",
+            "City": "Gardner",
+            "State": "MA",
+            "Zip_Code": "01440"
+          }
+        },
+        {
+          "geometry": { "x": -10735805.422682216, "y": 3860891.8555474877 },
+          "attributes": {
+            "OBJECTID": 50,
+            "Name": "Smurfit Kappa Forney Mill",
+            "TELEPHONE": "(214) 515-6400",
+            "Email": null,
+            "Website": "http://smurfitkappa.com/ie/locations/united-states/smurfit-kappa-forney-mills",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "855 East Highway 80",
+            "City": "Forney",
+            "State": "TX",
+            "Zip_Code": "75126"
+          }
+        },
+        {
+          "geometry": { "x": -9170640.5781811234, "y": 4127007.306125544 },
+          "attributes": {
+            "OBJECTID": 51,
+            "Name": "Southeastern Paperboard, Inc.",
+            "TELEPHONE": "(864) 277-7353",
+            "Email": null,
+            "Website": "http://www.southeasternpaperboard.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "100 South Harris Road",
+            "City": "Piedmont",
+            "State": "SC",
+            "Zip_Code": "29673"
+          }
+        },
+        {
+          "geometry": { "x": -9812064.7098731287, "y": 5601482.6562937116 },
+          "attributes": {
+            "OBJECTID": 52,
+            "Name": "ST Paper LLC",
+            "TELEPHONE": "(920) 846-3411",
+            "Email": "info@stpaperllc.com",
+            "Website": "https://www.stpaperllc.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "106 E. Central Avenue",
+            "City": "Oconto Falls",
+            "State": "WI",
+            "Zip_Code": "54154"
+          }
+        },
+        {
+          "geometry": { "x": -7606303.7486129208, "y": 6000595.56308217 },
+          "attributes": {
+            "OBJECTID": 53,
+            "Name": "Twin Rivers Paper Company",
+            "TELEPHONE": "(207) 728-3321",
+            "Email": "info@twinriverspaper.com",
+            "Website": "https://www.twinriverspaper.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "82 Bridge Avenue",
+            "City": "Madawaska",
+            "State": "ME",
+            "Zip_Code": "04756"
+          }
+        },
+        {
+          "geometry": { "x": -9601987.9194065742, "y": 5774167.9544970682 },
+          "attributes": {
+            "OBJECTID": 54,
+            "Name": "UP Paper LLC",
+            "TELEPHONE": "(906) 286-4265",
+            "Email": null,
+            "Website": "https://uppaperllc.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "402 West Elk Street",
+            "City": "Manistique",
+            "State": "MI",
+            "Zip_Code": "49854"
+          }
+        },
+        {
+          "geometry": { "x": -8972475.3261848632, "y": 4933210.3984168451 },
+          "attributes": {
+            "OBJECTID": 55,
+            "Name": "Valley Converting Co.",
+            "TELEPHONE": "(740) 537-2152",
+            "Email": "mark@valleyconverting.com",
+            "Website": "http://www.valleyconverting.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "South 4th Street",
+            "City": "Toronto",
+            "State": "OH",
+            "Zip_Code": "43964"
+          }
+        },
+        {
+          "geometry": { "x": -10259381.598844985, "y": 5899047.5813460546 },
+          "attributes": {
+            "OBJECTID": 56,
+            "Name": "Verso Corporation Duluth Mill",
+            "TELEPHONE": "(218) 628-5100",
+            "Email": null,
+            "Website": "https://www.versoco.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "100 North Central Avenue",
+            "City": "Duluth",
+            "State": "MN",
+            "Zip_Code": "55807"
+          }
+        },
+        {
+          "geometry": { "x": -9390298.9876925014, "y": 4019959.3786527319 },
+          "attributes": {
+            "OBJECTID": 57,
+            "Name": "WestRock Company",
+            "TELEPHONE": "(770) 448-2193",
+            "Email": null,
+            "Website": "https://www.westrock.com/",
+            "NAICS_Code": 562920,
+            "Infra_Type": "Paper Recycling Facility",
+            "Feedstock": "Paper",
+            "Street": "1000 Abernathy Road NE",
+            "City": "Atlanta",
+            "State": "GA",
+            "Zip_Code": "30328"
+          }
+        }
+      ]
+    }
+  ]
+}
