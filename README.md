@@ -94,3 +94,28 @@ npm start
 ```
 You can the scan the QR code in the termal on your phone and expo will connect and start the app
 
+
+Sources:
+
+Database for Local Dropoffs:
+https://experience.arcgis.com/experience/6aaa6b2293eb41c4a77845e6304f176a/page/Recycling-Map (downloaded all major facilities dropoffs)
+
+Fun Facts Sources:
+https://www.paperandpackaging.org/sites/default/files/2021-09/New%20Survey%20Reveals%20Gaps%20in%20Consumer%20Recycling%20Behavior%20and%20Knowledge%20-%20For%20Immediate%20Release_0.pdf?
+vhttps://www.movebuddha.com/blog/moving-waste/
+https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials
+U.S. Environmental Protection Agency (EPA) – https://www.epa.gov/recycle
+National Geographic – Plastic Pollution coverage
+Ocean Conservancy – International Coastal Cleanup Reports
+World Health Organization (WHO) – Cigarette & Tobacco Facts
+The Recycling Partnership – https://recyclingpartnership.org/
+ReFED Policy Finder – https://policyfinder.refed.org/
+Carton Council – https://www.cartonopportunities.org/
+Aluminium Association – https://www.aluminum.org/
+FAO – Food Waste Statistics
+
+Trash Dataset Source: 
+http://tacodataset.org/
+
+
+
